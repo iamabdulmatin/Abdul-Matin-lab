@@ -10,7 +10,7 @@ Here is the complete categorized list of the Python scripts included in this lab
 
 ### 🔢 1. Numerical Methods
 *   **`BISECTION_METHOD-(AM).py`** - Finding roots of non-linear equations using the Bisection method.
-*   **`NEWTON_RAPHSON_METHOD-20-09-26...`** - Fast root-finding implementation using the Newton-Raphson method.
+*   **`NEWTON_RAPHSON_METHOD...`** - Fast root-finding implementation using the Newton-Raphson method.
 *   **`ROOTS_NATURAL_VALUE-(AM).py`** - Determining the nature and calculating the roots of a quadratic equation.
 
 ### 📉 2. Curve Fitting & Graphics
