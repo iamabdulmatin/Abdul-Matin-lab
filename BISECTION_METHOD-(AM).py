@@ -36,14 +36,14 @@ while True:
     
     if abs(fxm)<t:
         break
-    elif fxl*fxm<0:
+    elif fxu*fxm>0:
          xu=xm
                         #continue
     else:
         xl=xm
-        fxl = fxm
+                        #fxl = fxm
     i=i+1
-                        #continue
+    continue
 
 print(f"The Final solution is:xm={round(xm,4)}")
 print(f"Total Iteration is:{i}")
